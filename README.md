@@ -1,5 +1,5 @@
 # Cheat Turbine
-_Cheat Engine alternative for linux_
+_Cheat Engine alternative for linux_ (Android)
 
 ## Table of Contents
 - [Features](#features)
